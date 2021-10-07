@@ -5,4 +5,7 @@
 - I live in Dehradun , Uttrakhand .
 - 📫 How to reach me: 8475993165 , rawattarun3165@gmail.com
 
+Tech Stack
+JavaScript  React  Redux  Node.js  MongoDB  HTML  CSS 
+
 
