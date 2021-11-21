@@ -21,15 +21,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarun3165&label=Profile%20views&color=0e75b6&style=flat" alt="tarun3165" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarun3165" alt="tarun3165" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarun3165&show_icons=true&locale=en&layout=compact" alt="tarun3165" /></p>
 
